@@ -1,4 +1,4 @@
-flask.
-numpy.
-pickle.
-streamlit.
+flask
+numpy
+pickle
+streamlit
