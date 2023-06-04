@@ -1,9 +1,6 @@
 Flask
 numpy
-streamlit
 pandas
-datetime
-pickle
 scikit-learn
 
 
