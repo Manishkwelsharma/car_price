@@ -1,6 +1,5 @@
 FROM python:latest
 WORKDIR /usr/app/src
-COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 COPY model.pkl /usr/app/src
 COPY templates /usr/app/src/templates

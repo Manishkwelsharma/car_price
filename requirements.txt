@@ -1,3 +1,7 @@
-flask
+Flask
 numpy
+pickal
 streamlit
+scikit-learn
+pandas
+matplotlib
