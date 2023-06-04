@@ -1,7 +1,9 @@
 Flask
 numpy
-pickal
 streamlit
-scikit-learn
 pandas
-matplotlib
+datetime
+pickle
+scikit-learn
+
+
