@@ -7,18 +7,8 @@
 ### Type this command and run the project:
     $ python app.py
 
-###  Donate & Support us:
-----------
-* https://www.paypal.com/paypalme/bhavikjikadara
 
 ### Follow:
 ----------
-* Linkedin Link: https://www.linkedin.com/in/bhavikjikadara
-* Github Link: https://github.com/Bhavik-Jikadara
-* Facebook Link: https://www.facebook.com/Bhavikjikadara07
-* Instagram Link: https://www.instagram.com/bhavikjikadara/
-* twitter Link: https://twitter.com/BhavikJikadara1
+* Github Link: https://github.com/Manishkwelsharma
 
-###  Subscribe:
-----------
-* https://www.youtube.com/channel/UC7Bp_sYQmAryrrPqvUp6PwQ
